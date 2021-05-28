@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h2 className="text-5xl md:text-7xl">Hi, my name is Ken.</h2>
+    <h2 className="text-5xl md:text-7xl">Hi 👋🏻 my name is Ken.</h2>
     <h1 className="text-3xl md:text-5xl font-black mt-8">
       I use <span className="text-purple-500">words</span> and{" "}
       <span className="text-red-500">code</span> to help businesses decrease
