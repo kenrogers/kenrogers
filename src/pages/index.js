@@ -8,11 +8,12 @@ const IndexPage = () => (
     <Seo title="Ken Rogers" />
     <p className="text-5xl md:text-7xl">Hi 👋🏻 I'm Ken.</p>
     <h1 className="text-4xl md:text-6xl font-black mt-8">
-      I'm a full-stack web and blockchain developer.
+      I'm a full-stack JavScript developer building things on the modern web
+      with React and GraphQL.
     </h1>
     <h2 className="text-2xl md:text-4xl mt-8">
-      I help high-caliber companies build the modern web with React and
-      Solidity.
+      I love building delightful apps and helping aspiring developers break into
+      the industry. Here's what I've been working on recently 👇🏻
     </h2>
     <h3 className="text-2xl md:text-3xl mt-8 font-bold">Courses</h3>
     <ul>
