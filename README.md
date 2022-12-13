@@ -1,10 +1,10 @@
 # Hi 👋🏻 I'm Kenny
 
-I'm currently working on exploring how to build a better, more decentralized Internet with Bitcoin and Stacks.
-
-Right now, I'm focusing on developer education and outreach for the Stacks Foundation.
-
-Stacks is a L1 blockchain that settles on Bitcoin, allowing developers to build robust, transparent, and secure decentralized applications on top of the world's most secure blockchain.
+- Developer
+- Writer
+- DevRel at Stacks Foundation
+- Two primary interests at the moment are blockchain and AI
+- Highly interested in how we can leverage these technologies to increase human flourishing
 
 ## My Work
 - [Starting Stacks](https://start.stacks.org) - A roadmap for developers interested in getting started developing on Stacks.
@@ -14,4 +14,5 @@ Stacks is a L1 blockchain that settles on Bitcoin, allowing developers to build 
 
 ## How to Reach Me
 - [Twitter](https://twitter.com/KenTheRogers)
+- [Website](https://krgrs.dev)
 - Email: kenny@stacks.org
